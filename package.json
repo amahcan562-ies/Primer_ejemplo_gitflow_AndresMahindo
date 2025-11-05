@@ -1,0 +1,23 @@
+{
+  "name": "primer_ejemplo_gitflow_andresmahindo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amahcan562-ies/Primer_ejemplo_gitflow_AndresMahindo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amahcan562-ies/Primer_ejemplo_gitflow_AndresMahindo/issues"
+  },
+  "homepage": "https://github.com/amahcan562-ies/Primer_ejemplo_gitflow_AndresMahindo#readme",
+  "dependencies": {
+    "mongoose": "^8.19.2"
+  }
+}
